@@ -7,11 +7,12 @@
     "test": "jest",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Tanner C.",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "jest": "^27.0.6"
+    "jest": "^27.0.6",
+    "nanoid": "^3.1.23"
   },
   "repository": {
     "type": "git",
