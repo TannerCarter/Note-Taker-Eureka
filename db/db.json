@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "TJDA2LuNvAazqEeGqPalw",
+    "title": "Nanoid Test",
+    "text": "Using nanoid package to test that id is generated."
+  },
+  {
+    "id": "CT6geLe2_hFczb23kgYzl",
+    "title": "Success",
+    "text": "nanoid is functioning correctly"
+  }
 ]
