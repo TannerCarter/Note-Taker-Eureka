@@ -38,7 +38,8 @@ In this project it did require a bit of going back through the module. I built t
 
 # Links
 
-[View Live On Heroku](https://note-taker-eureka.herokuapp.com/)
+[View Live On Heroku](https://note-taker-eureka.herokuapp.com/) </br>
+[View Live On Github](https://tannercarter.github.io/note-taker-eureka/)
 
 # Instructions
 
